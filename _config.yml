@@ -94,9 +94,9 @@ analytics:
 # Site Author
 author:
   name             : "Abhilash Kamble"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "CDAC Student | FullStack Devloper | Devops | Ethical Hacker"
-  location         : "Pune"
+  avatar           : /assets/images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "CDAC Student,FullStack Devloper,Devops,Ethical Hacker"
+  location         : "Pune,India"
   email            : "abhilash.kamble376@gmail.com"
   uri              :
   bitbucket        : 
