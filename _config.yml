@@ -126,7 +126,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+     label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
        url: "https://twitter.com/abby_bounty"
     - label: "Facebook"
