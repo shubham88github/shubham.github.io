@@ -1,18 +1,31 @@
 ---
 layout: archive
 ---
+<section>
 
-{{ content }}
+  <link rel="stylesheet" href="https://rikschennink.github.io/highlightjs-themes/atelier-forest.dark.css">
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.7/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();
+  </script>
+
+  <pre><code class="python" style="white-space: pre-wrap">#!/usr/bin/python3
+
+'''
+@location     eshan's lab
+@description  a place to store all the awesome
+              i come across.
+'''
+def greeting():
+  print("welcome to eshan's lab")
+
+if __name__ == '__main__':
+  greeting()
+  </code></pre>
+</section>
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-{% for post in posts %}
+{% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
 
