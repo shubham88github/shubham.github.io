@@ -123,27 +123,7 @@ author:
   xing             :
   youtube          : "https://www.youtube.com/channel/UC3fGtF0Wab9woqelMzS1Xnw" # "https://youtube.com/c/MichaelRoseDesign"
 
-# Site Footer
-footer:
-  links:
-     label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/abby_bounty"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-       url: "https://facebook.com/abhilash.kamble31"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/AbbyBounty"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+
 
 
 # Reading Files
