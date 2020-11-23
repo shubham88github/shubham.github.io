@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abhilash's Lab"
+title                    : "Shubham's Lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Abhilash Kamble"
+name                     : "Shubham GaTKAL"
 description              : "My online documentation of all the fun i have."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : abhilash.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : shubham.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -93,36 +93,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abhilash Kamble"
+  name             : "Shubham Gatkal"
   avatar           : /assets/images/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "CDAC Student,FullStack Devloper,Devops,Ethical Hacker"
+  bio              : "CDAC Student,FullStack Devloper,Devops,"
   location         : "Pune,India"
-  email            : "abhilash.kamble376@gmail.com"
+  email            : "shubhamgat555@gmail.com"
   uri              :
   bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "abhilash.kamble31"
+  facebook         : 
   foursquare       :
-  github           : "abbybounty"
-  gitlab           : "abbybounty"
+  github           : "shubham88github"
+  gitlab           : 
   google_plus      :
   keybase          :
-  instagram        : "abby_bounty"
+  instagram        : "shubham.gatkal"
   lastfm           :
-  linkedin         : "abhilashkamble" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "Shubham Gatkal" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "abby_bounty"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  codechef         : "abbybounty"
-  hackerrank       : "abby_bounty"  
+  codechef         : 
+  hackerrank       :  
   youtube          : #"https://www.youtube.com/channel/UC3fGtF0Wab9woqelMzS1Xnw" # "https://youtube.com/c/MichaelRoseDesign"
 
 
